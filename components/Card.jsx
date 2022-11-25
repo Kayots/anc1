@@ -3,6 +3,7 @@ import styles from "./Card.module.css";
 export default function Card() {
     return (
         <div className={styles.container}>
+            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter" />
             <div className={styles.img_container}> 
                 <img className={styles.card_img}  src="" alt="card image" />
             </div>
