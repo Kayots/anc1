@@ -1,11 +1,13 @@
 import styles from "./Card.module.css";
+import Image from 'next/image';
+import adobo from '../public/Rectangle 9-1.png';
 
 export default function Card() {
     return (
         <div className={styles.container}>
             <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter" />
             <div className={styles.img_container}> 
-                <img className={styles.card_img}  src="" alt="card image" />
+                <Image className={styles.card_img} src={adobo} alt="Vercel Logo"/>
             </div>
 
             <h1 className={styles.card_title}>Adobong Manok</h1>
