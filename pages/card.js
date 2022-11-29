@@ -9,6 +9,7 @@ export default function ANC() {
             <Navbar />
             <Search />
             <Card_Container/>
+            <Card />
         </div>
     )
 }
