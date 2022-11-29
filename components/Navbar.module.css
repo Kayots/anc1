@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  width: 100%;
+  height: 100px;
+  background: linear-gradient(180deg, #f5ba42 0%, #c07e42 100%);
+  padding: 0px 20px 0px 20px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.ref_buttons {
+  display: flex;
+  list-style: none;
+  color: #4a2c15;
+}
+
+.ref_buttons li {
+  margin: 20px;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.ref_buttons li:hover {
+  color: rgb(255, 255, 255);
+  text-decoration: underline;
+}
