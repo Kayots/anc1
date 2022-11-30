@@ -13,14 +13,38 @@
   },
   {
     "title": "Sinigang (Baboy)",
-    "body": "Sinigang is a sour soup native to the Philippines. This recipe uses pork as the main ingredient. Other proteins and seafood can also be used. Beef, shrimp, fish are commonly used to cook sinigang. The chicken version, on the other hand, is called sinampalukang manok.",
+    "body": "Sinigang is a sour soup native to the Philippines. This recipe uses pork as the main ingredient. Other proteins and seafood can also be used. Beef, shrimp, fish are commonly used to cook sinigang. ",
     "price": "Price : Php 65",
     "image": "https://www.lutongpinoyrecipe.com/wp-content/uploads/2020/12/lutong-pinoy-pork-sinigang-1200x675.jpg"
   },
   {
     "title": "Sinigang (Hipon)",
-    "body": "Sinigang na Hipon is a type of Filipino sour soup, wherein shrimp is used as the main ingredient. This dish also includes a variety of vegetables such as daikon radish, snake beans, okra, and eggplant. This dish is best served during cold weather.",
+    "body": "Sinigang na Hipon is a type of Filipino sour soup, wherein shrimp is used as the main ingredient. This dish also includes a variety of vegetables such as daikon radish, snake beans, okra, and eggplant. ",
     "price": "Price : Php 55",
     "image": "https://www.lutongbahayrecipe.com/wp-content/uploads/2019/03/lutong-bahay-sinigang-na-hipon-573x381.jpg"
+  },
+  {
+    "title": "Bistek",
+    "body": "Bistek Tagalog is a type of Filipino beef stew. This is also known as Beefsteak to some people. It is comprised of thin slices of beef and a generous amount of onions. These are stewed in a soy sauce and lemon juice mixture.",
+    "price": "Price : Php 60",
+    "image": "https://cdn.sanity.io/images/f3knbc2s/production/b5318405e36335e00e82b10ffcf7b439fff513af-2500x1600.jpg"
+  },
+  {
+    "title": "Chicken Tinola",
+    "body": "Chicken Tinola is a Filipino soup dish. It involves cooking chicken pieces in ginger broth. It is a popular cold weather dish. This Filipino Chicken Soup is best enjoyed with fish sauce as dipping sauce, and a cup of warm white rice.",
+    "price": "Price : Php 50",
+    "image": "https://images.aws.nestle.recipes/resized/3180c9d5f884428a7946dd363b881fdd_Chicken_Tinola_Manok_main_944_531.jpg"
+  },
+  {
+    "title": "Pork Giniling",
+    "body": "Pork Giniling is a pork dish that makes use of ground pork as the primary ingredient. Ground pork is stewed in tomato sauce and water to bring out the taste while vegetables such as carrots and potatoes are added for additional flavor and nutrition.",
+    "price": "Price : Php 65",
+    "image": "https://www.cookmunitybyajinomoto.com/wp-content/uploads/2021/10/Pork-Giniling-LSR-scaled.jpg"
+  },
+  {
+    "title": "Beef Kaldereta",
+    "body": "Beef Kaldereta is a main stay in any Filipino Kitchen. It is a type of beef stew cooked with tomato sauce and liver spread. Ingredients such as potato, carrots, bell peppers, and olives are also utilized when cooking this dish.",
+    "price": "Price : Php 60",
+    "image": "http://images.summitmedia-digital.com/yummyph/images/2017/11/23/beef-kaldereta.jpg"
   }
 ]

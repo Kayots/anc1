@@ -3,10 +3,14 @@
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
+    padding-left: 350px;
+    padding-right: 350px;
 }
 
+
 .container {
-    margin: 50px;
+    margin-top: 48px;
+    margin-left: 34px;
     border-radius: 20px;
     background:#EDEDED;
     width: 225px;
@@ -15,6 +19,7 @@
     flex-direction: column;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.25);
     font-family: "Inter", 'Times New Roman';
+    justify-content: space-between;
 }
 
 .img_container {
