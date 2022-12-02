@@ -36,17 +36,17 @@
     outline: none;
   }
 
-.search_bar button {
+.search_bar_button {
     height: 100%;
     width: 60px;
     border-radius: 0px 20px 20px 0px;
     background: white;
     border: none;
+    justify-content: center;
+    padding: 10px
 }
 
 .search_bar i {
     color: #4A2C15;
-    padding: 0 7px;
-    cursor: pointer;
     font-size: 32px;
   }

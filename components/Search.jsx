@@ -9,7 +9,7 @@ export default function Search({ query, setQuery }) {
             
             <form className={styles.search_bar} action="">
             <input type="text" placeholder="e.g. Adobo" onChange={event => setQuery(event.target.value)} />
-            <button><i className="material-icons">search</i></button>
+            <div className={styles.search_bar_button}><i className="material-icons">search</i></div>
             </form>
       </div>
     )

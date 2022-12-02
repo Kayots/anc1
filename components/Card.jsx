@@ -21,8 +21,6 @@ export default function Card({ query }) {
                     return menu
                     } else if (menu.title.toLowerCase().includes(query.toLowerCase())) {
                     return menu
-                    } else if (menu.body.toLowerCase().includes(query.toLowerCase())) {
-                    return menu
                     } 
                 }).map( menu => (  
                 <div className={styles.container}>
